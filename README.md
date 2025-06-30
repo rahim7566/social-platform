@@ -39,8 +39,8 @@ This is a social media platform built using **Spring Boot 3.3.7**. It includes c
     ```bash
    mvn spring-boot:run
 8. Access the application at:
-http://localhost:8080/swagger-ui/index.html
-
+   ```bash
+   http://localhost:8080/swagger-ui/index.html
 This file is structured, detailed, and ready to be used in your GitHub repository.
 
 
